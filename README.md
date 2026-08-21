@@ -21,27 +21,9 @@ Desenvolvendo soluções que conectam **dados, tecnologia e negócio** para tran
 
 Profissional Sênior de Dados e Tecnologia com experiência na construção de soluções analíticas, automações e aplicações orientadas a dados.
 
-Minha atuação combina **Business Intelligence, Data Analytics, Engenharia de Dados e Desenvolvimento de Software**, acompanhando o ciclo completo da informação: entendimento do problema, integração das fontes, transformação dos dados, modelagem, desenvolvimento de métricas, visualização, automação, validação e evolução da solução.
+Minha atuação combina **Business Intelligence, Data Analytics, Engenharia de Dados e Desenvolvimento de Software**, acompanhando o ciclo completo da informação: entendimento do problema, integração das fontes, transformação dos dados, modelagem, desenvolvimento de métricas, visualização, automação e validação.
 
-Mais do que desenvolver dashboards, busco construir **produtos de dados confiáveis, escaláveis, documentados e sustentáveis**, conectando tecnologia às necessidades reais do negócio.
-
-```text
-Business Understanding
-        ↓
-Data Integration
-        ↓
-Data Engineering
-        ↓
-Analytics & Modeling
-        ↓
-Software & Automation
-        ↓
-Visualization
-        ↓
-Validation & Governance
-        ↓
-Decision Support
-```
+Busco construir **produtos de dados confiáveis, escaláveis, documentados e sustentáveis**, conectando tecnologia às necessidades reais do negócio.
 
 ---
 
@@ -49,21 +31,19 @@ Decision Support
 
 ### RSAC — Risco Socioambiental e Climático
 
-Atualmente atuando no desenvolvimento de solução relacionada a **Risco Socioambiental e Climático (RSAC)**, envolvendo tratamento, integração e análise de dados para construção de produtos analíticos voltados ao acompanhamento e à tomada de decisão.
+Atuação no desenvolvimento de solução relacionada a **Risco Socioambiental e Climático (RSAC)**, envolvendo tratamento, integração e análise de dados para construção de produtos analíticos voltados ao acompanhamento e à tomada de decisão.
 
-O projeto envolve atividades relacionadas a:
+Principais frentes:
 
 * integração e tratamento de diferentes fontes de dados;
 * preparação e transformação de dados;
 * regras de negócio e qualidade da informação;
-* consultas e manipulação de dados;
 * desenvolvimento de soluções analíticas;
 * automação de processos;
 * visualização e exploração de informações;
-* organização e documentação técnica da solução;
-* evolução da arquitetura do projeto.
+* documentação técnica da solução.
 
-**Principais tecnologias e conceitos envolvidos:**
+**Tecnologias e conceitos:**
 
 `Python` · `SQL` · `Power BI` · `Power Query` · `DAX` · `SharePoint` · `ETL/ELT` · `Data Modeling` · `Automation`
 
@@ -71,22 +51,21 @@ O projeto envolve atividades relacionadas a:
 
 ### SMI Nº 2026/008
 
-Minha atuação profissional também está direcionada às competências relacionadas à:
+Direcionamento profissional alinhado à:
 
 **Solicitação de Manifestação de Interesse (SMI) nº 2026/008 — Consultor Individual Especialista em Monitoramento, Avaliação, Conformidade e Reporte.**
 
-Esse direcionamento reúne áreas que fazem parte da minha trajetória profissional:
+Competências relacionadas:
 
 * monitoramento de informações e indicadores;
 * análise e avaliação de dados;
 * organização e rastreabilidade da informação;
-* produção de informações gerenciais;
 * consolidação de diferentes fontes;
 * automação e melhoria de processos;
 * documentação;
 * reporte executivo;
 * suporte à tomada de decisão;
-* desenvolvimento de soluções de dados para ambientes corporativos.
+* desenvolvimento de soluções corporativas orientadas a dados.
 
 ---
 
@@ -100,9 +79,7 @@ Esse direcionamento reúne áreas que fazem parte da minha trajetória profissio
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-0F6CBD?style=for-the-badge)
 ![Analytics](https://img.shields.io/badge/Data_Analytics-008272?style=for-the-badge)
 
-**Competências**
-
-`Data Analytics` · `KPIs` · `Dashboards` · `Data Visualization` · `Storytelling` · `Modelagem Analítica` · `Indicadores`
+`Data Analytics` · `KPIs` · `Dashboards` · `Data Visualization` · `Storytelling` · `Modelagem Analítica`
 
 ---
 
@@ -112,9 +89,7 @@ Esse direcionamento reúne áreas que fazem parte da minha trajetória profissio
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-**Competências**
-
-`Python` · `SQL` · `PostgreSQL` · `Pandas` · `ETL` · `ELT` · `Data Cleaning` · `Data Transformation` · `Data Modeling`
+`Python` · `SQL` · `PostgreSQL` · `Pandas` · `ETL` · `ELT` · `Data Cleaning` · `Data Transformation`
 
 ---
 
@@ -128,9 +103,7 @@ Esse direcionamento reúne áreas que fazem parte da minha trajetória profissio
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-Desenvolvendo e aprofundando conhecimentos em:
-
-`JavaScript` · `TypeScript` · `Node.js` · `NestJS` · `React` · `APIs REST` · `Backend Development` · `Frontend Development`
+`JavaScript` · `TypeScript` · `Node.js` · `NestJS` · `React` · `REST APIs`
 
 ---
 
@@ -151,7 +124,7 @@ Desenvolvendo e aprofundando conhecimentos em:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
-`Git` · `GitHub` · `Docker` · `Versionamento` · `Documentação` · `Organização de Projetos`
+`Git` · `GitHub` · `Docker` · `Versionamento` · `Documentação`
 
 ---
 
@@ -160,7 +133,7 @@ Desenvolvendo e aprofundando conhecimentos em:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![UX](https://img.shields.io/badge/UI%2FUX-Design-7B61FF?style=for-the-badge)
 
-`Figma` · `UI/UX` · `Dashboard Design` · `Data Visualization` · `Design Systems`
+`Figma` · `UI/UX` · `Dashboard Design` · `Data Visualization`
 
 ---
 
@@ -172,7 +145,7 @@ Desenvolvendo e aprofundando conhecimentos em:
 
 Projeto voltado à estruturação, tratamento e análise de informações relacionadas ao risco socioambiental e climático.
 
-Atuação envolvendo integração de dados, transformação, regras de negócio, desenvolvimento analítico, automação e organização da arquitetura da solução.
+Atuação envolvendo integração de dados, transformação, regras de negócio, desenvolvimento analítico, automação e organização da solução.
 
 **Stack**
 
@@ -180,45 +153,17 @@ Atuação envolvendo integração de dados, transformação, regras de negócio,
 
 ---
 
-### 📊 PPA — Plano Plurianual
-
-> **Business Intelligence · Data Modeling · Analytics**
-
-Desenvolvimento integral de solução de Business Intelligence para acompanhamento e análise de informações do Plano Plurianual.
-
-Atuação desde o entendimento da necessidade até modelagem, construção das regras analíticas, desenvolvimento das visualizações e entrega da solução.
-
-**Stack**
-
-`Power BI` `DAX` `Power Query` `SQL` `Data Modeling`
-
----
-
 ### 🧩 NorteAgenda & NorteBackend
 
 > **Software Engineering · Backend · APIs · Data**
 
-Ecossistema de aplicações desenvolvido para gerenciamento e agendamento de empresas, composto por aplicação web, aplicação mobile e backend centralizado.
+Ecossistema de aplicações para gerenciamento e agendamento de empresas, composto por aplicação web, aplicação mobile e backend centralizado.
 
-O projeto amplia minha atuação para além da análise de dados, trabalhando conceitos de arquitetura de software, APIs, autenticação, banco de dados e integração entre sistemas.
+O projeto expande minha atuação para arquitetura de software, APIs, autenticação, banco de dados e integração entre sistemas.
 
 **Stack**
 
 `TypeScript` `Node.js` `NestJS` `React` `PostgreSQL` `REST APIs` `Docker` `Git`
-
----
-
-### 🔧 Jira Sustentação
-
-> **Analytics · Maintenance · Evolution**
-
-Atuação na manutenção e evolução de solução analítica utilizada no acompanhamento de demandas de sustentação.
-
-O trabalho atual envolve manutenção da solução existente e preparação de uma nova evolução com melhorias de estrutura, experiência e identidade visual.
-
-**Stack**
-
-`Power BI` `Power Query` `SQL` `SharePoint`
 
 ---
 
@@ -235,53 +180,6 @@ O trabalho atual envolve manutenção da solução existente e preparação de u
 | **Automation**            | Automação de processos e integração de sistemas        |
 | **UI/UX**                 | Experiência aplicada a dashboards e produtos digitais  |
 | **Documentation**         | Estruturação e documentação técnica de projetos        |
-
----
-
-## How I Build Data Solutions
-
-```mermaid
-flowchart LR
-    A[Negócio] --> B[Fontes de Dados]
-    B --> C[Integração]
-    C --> D[Tratamento]
-    D --> E[Modelagem]
-    E --> F[Analytics]
-    F --> G[Automação]
-    G --> H[Visualização]
-    H --> I[Validação]
-    I --> J[Decisão]
-```
-
-Minha abordagem busca conectar três dimensões:
-
-### Business
-
-Entender o problema antes de escolher a tecnologia.
-
-### Data
-
-Garantir qualidade, rastreabilidade, estrutura e significado para a informação.
-
-### Technology
-
-Utilizar engenharia, automação e desenvolvimento para construir soluções sustentáveis.
-
----
-
-## Engineering Principles
-
-> **Data is only valuable when it can be trusted, understood and used.**
-
-* Dados confiáveis antes de visualizações
-* Entendimento do negócio antes da implementação
-* Simplicidade antes da complexidade
-* Automação de atividades repetitivas
-* Código e regras de negócio documentados
-* Versionamento e rastreabilidade
-* Soluções orientadas à manutenção
-* Experiência do usuário também faz parte do produto de dados
-* Tecnologia como meio para geração de valor
 
 ---
 
@@ -302,34 +200,6 @@ Utilizar engenharia, automação e desenvolvimento para construir soluções sus
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=glaydson-moreira&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
-
----
-
-## Currently Evolving
-
-Meu desenvolvimento técnico atualmente está concentrado na evolução entre **Dados e Engenharia de Software**.
-
-```text
-Data Analytics
-     │
-     ├── Business Intelligence
-     │
-     ├── Data Engineering
-     │
-     ├── Python & Automation
-     │
-     ├── APIs & Integrations
-     │
-     ├── Backend Engineering
-     │
-     ├── Software Architecture
-     │
-     └── Artificial Intelligence
-```
-
-Áreas em aprofundamento contínuo:
-
-`Python` · `Analytics Engineering` · `TypeScript` · `Node.js` · `NestJS` · `React` · `APIs` · `Docker` · `Arquitetura de Software` · `IA aplicada a Dados`
 
 ---
 
