@@ -180,27 +180,6 @@ O projeto expande minha atuação para arquitetura de software, APIs, autentica�
 | **Automation**            | Automação de processos e integração de sistemas        |
 | **UI/UX**                 | Experiência aplicada a dashboards e produtos digitais  |
 | **Documentation**         | Estruturação e documentação técnica de projetos        |
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=glaydson-moreira&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaydson-moreira&layout=compact&hide_border=true&theme=github_dark&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=glaydson-moreira&theme=github-compact&hide_border=true&area=true"/>
-
-</div>
-
 ---
 
 ## Let's Connect
@@ -221,3 +200,4 @@ Aberto a conexões e discussões sobre:
 **Data · Engineering · Analytics · Technology**
 
 </div>
+
